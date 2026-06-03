@@ -10,7 +10,7 @@
 
 Baballonia is now on Steam! [Download it here!](https://store.steampowered.com/app/4091970/Project_Babble_Baballonia/)
 
-*This is the suggested install method. You will automatically recieve updates with this method.*
+*This is the suggested install method. You will automatically receive updates with this method.*
 
 ### Windows (Alternative)
 
